@@ -8,7 +8,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Instagram Clone',
       debugShowCheckedModeBanner: false,
-      home: LoginScreen(title: ''),
+      // home: LoginScreen(title: ''),
     );
   }
 }
